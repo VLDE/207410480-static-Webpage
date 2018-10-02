@@ -12,4 +12,5 @@ week 3
 * div.html
 
 week 4
-* ttt.html,ttt.css
+* ttt.html, ttt.css
+* blog.html, blog.css
