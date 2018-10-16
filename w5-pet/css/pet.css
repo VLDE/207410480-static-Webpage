@@ -42,3 +42,6 @@ nav ul li a:hover {
     background-image: url(../images/btn_hover.png);
     color: white;
 }
+legend {
+    text-align: center;
+}
