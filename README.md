@@ -2,7 +2,7 @@
 
 week 1
 * intro.html
-
+[
 week 2
 * table.html
 * myclass.html
@@ -18,3 +18,6 @@ week 4
 
 week 5
 * imagegallery.html, imagegallery.css
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE3MDg0NjU2OF19
+-->
