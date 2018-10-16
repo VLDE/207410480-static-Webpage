@@ -8,16 +8,16 @@ week 2
 * [myclass.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w2%20HW/myclass.html)
 
 week 3
-* [tku60.html]()
-* [div.html]()
+* [tku60.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w3/tku60.html)
+* [div.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w2%20HW/myclass.html)
 
 week 4
-* [ttt.html](), [ttt.css]()
+* [ttt.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w4%20HW/profile.html), [ttt.css](https://github.com/VLDE/207410480-static-Webpage/blob/master/w4/ttt.css)
 * [blog.html](), [blog.css]()
-* [profile.html]()
+* [profile.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w4%20HW/profile.html)
 
 week 5
 * [imagegallery.html](), [imagegallery.css]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMzMjI4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5NDY0NzY1OTVdfQ==
 -->
