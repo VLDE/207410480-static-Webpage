@@ -1,10 +1,23 @@
 body {
     background: url(../images/bg.jpg);
+    font-family: sans-serif;
 }
 header {
     width: 800px;
     height: 80px;
     background-color: #330000;
+}
+h1#text1 {
+    position: absolute;
+    color: #ff0000;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+h1#text2 {
+    position: absolute;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: 150px;
 }
 aside {
     width: 170px;
@@ -22,6 +35,9 @@ footer {
     width: 800px;
     height: 50px;
     background-color: #330000;
+    color: white;
+    text-align: center;
+    line-height: 50px;
 }
 nav {
     margin-top: 170px;
@@ -42,6 +58,19 @@ nav ul li a:hover {
     background-image: url(../images/btn_hover.png);
     color: white;
 }
-legend {
+fieldset {
+    border-radius: 10px;
+}
+fieldset legend {
     text-align: center;
+}
+img {
+    width: 120px;
+    margin: 3px;
+    border-radius: 15px;
+}
+.consection {
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
 }
