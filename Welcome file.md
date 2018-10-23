@@ -1,6 +1,6 @@
 ＃歡迎來到StackEdit！
 
-嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*               *文件瀏覽器**來創建新文件。
+嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*                            *文件瀏覽器**來創建新文件。
 
 
 ＃文件
@@ -21,75 +21,75 @@ StackEdit存儲您的文件在您的瀏覽器，這意味著您的所有文件�
 
 ## 刪除文件
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+您可以通過單擊文件資源管理器中的**刪除**按鈕來刪除當前文件。該文件將被移動到** Trash **文件夾中，並在7天不活動後自動刪除。
 
-## Export a file
+## 導出文件
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-
-# Synchronization
-
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
-
-There are two types of synchronization and they can complement each other:
-
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+您可以通過單擊菜單中的**導出到磁盤**來導出當前文件。您可以選擇將文件導出為純降價，使用把手模板或PDF作為HTML導出。
 
 
-# Publication
+＃同步
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+同步是StackEdit的最大特色之一。它使您可以將工作區中的任何文件與存儲在** Google Drive **，** Dropbox **和** GitHub **帳戶中的其他文件同步。這使您可以繼續在其他設備上書寫，與共享文件的人協作，輕鬆集成到您的工作流程中......同步機制在後台每分鐘進行一次，下載，合併和上傳文件修改。
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+有兩種類型的同步，它們可以相互補充：
 
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
+- 工作區同步將自動同步所有文件，文件夾和設置。這將允許您在任何其他設備上獲取工作區。	> 要開始同步工作區，只需在菜單中使用Google登錄即可。- 文件同步將使工作區的一個文件與** Google Drive **，** Dropbox **或** GitHub **中的一個或多個文件同步。	> 在開始同步文件之前，您必須在** Synchronize **子菜單中鏈接一個帳戶。
 
 
-# Markdown extensions
 
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+
+## 打開一個文件
+
+您可以從打開文件**谷歌驅動器**，** Dropbox的**或** GitHub的**通過打開**同步**子菜單，然後點擊**從打開**。在工作區中打開後，文件中的任何修改都將自動同步。
+
+## 保存文件
+
+您可以保存工作區中的任何文件**谷歌驅動器**，** Dropbox的**或** GitHub的**通過打開**同步**子菜單，然後點擊**節省**。即使工作區中的文件已同步，您也可以將其保存到其他位置。StackEdit可以將一個文件與多個位置和帳戶同步。
+
+## 同步文件
+
+一旦您的文件鏈接到同步位置，StackEdit將通過下載/上傳任何修改定期同步它。如有必要，將執行合併，並解決衝突。
+
+如果您剛剛修改了文件並想要強制同步，請單擊導航欄中的**立即同步**按鈕。
+
+> **注：**的**立即同步**按鈕是無效的，如果你沒有文件同步。 
+
+## 管理文件同步
+
+由於一個文件可以與多個位置進行同步，你可以列出並通過單擊管理同步位置**文件同步**的**同步**子菜單。這允許您列出和刪除鏈接到您的文件的同步位置。
+
+
+＃出版
+
+在StackEdit中發布使您可以輕鬆地在線發布文件。一旦您對文件感到滿意，您就可以將其發佈到不同的託管平台，例如** Blogger **，** Dropbox **，** Gist **，** GitHub **，** Google Drive **，* * WordPress **和** Zendesk **。使用[ Handlebars templates ]（http://handlebarsjs.com/），您可以完全控制導出的內容。
+
+> 在開始發布之前，您必須在**發布**子菜單中鏈接一個帳戶。
+
+## 發布文件
+
+您可以通過打開**發布**子菜單並單擊**發佈到**來發布文件。對於某些位置，您可以選擇以下格式：
+
+- Markdown：在可以解釋它的網站上發布Markdown文本（例如** GitHub **）， -  HTML：通過Handlebars模板（例如在博客上）發布轉換為HTML的文件。
+
+
+## 更新出版物
+
+發布後，StackEdit會將您的文件鏈接到該出版物，以便您輕鬆重新發布。修改文件並想要更新出版物後，單擊導航欄中的**立即發布**按鈕。
+
+> **注意：**如果您的文件尚未發布，則**現在**發布**按鈕被禁用。 
+
+## 管理文件發布
+
+由於一個文件可以被發布到多個位置，你可以列出和管理通過點擊發布位置**文件發布**的**發布**子菜單。這允許您列出和刪除鏈接到您的文件的發布位置。
+
+
+＃降價擴展
+
+StackEdit通過添加額外的** Markdown擴展**擴展了標準Markdown語法，為您提供了一些不錯的功能。
+
+> ** ProTip：**您可以在**文件屬性**對話框中禁用任何** Markdown擴展**。 
 
 
 ## SmartyPants
@@ -142,5 +142,5 @@ B  - > D {菱形}
 C  - > D```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc5Nzk3MDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjU3MTAwOThdfQ==
 -->
