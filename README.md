@@ -18,8 +18,8 @@
 
 ## week 5
 * [imagegallery.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w4/blog.css), [imagegallery.css](https://github.com/VLDE/207410480-static-Webpage/blob/master/w5-imagegallery/css/imagegallery.css)
-* [pet.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w5-pet/index.html).
+* [pet.html](https://github.com/VLDE/207410480-static-Webpage/blob/master/w5-pet/index.html),[pet.css](https://github.com/VLDE/207410480-static-Webpage/blob/master/w5-pet/css/pet.css)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjM2NzIwMywtMTMxOTM1MTc2NSw3OD
-k3NjQ0MV19
+eyJoaXN0b3J5IjpbODM5NTE3MzEwLC0xMzE5MzUxNzY1LDc4OT
+c2NDQxXX0=
 -->
